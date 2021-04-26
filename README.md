@@ -1,6 +1,7 @@
 # drupal_menu_flutter
 
-A new Flutter application.
+An Example project showing usage of drupal_linkset_menu flutter package
+
 
 ## Getting Started
 
